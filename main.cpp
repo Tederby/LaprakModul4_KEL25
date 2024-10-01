@@ -42,5 +42,5 @@ void nota() {//Menampilkan Nota
         }
     }
     for (int i = 0; i < 25; i++) {cout<<"------";}cout<<endl;
-    cout<<"Total belanja kamu adalah = "<<total <<endl;
+    cout<<"Total belanja kamu = "<<total <<endl;
 }
